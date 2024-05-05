@@ -78,9 +78,10 @@ int main(void)
 
 
 ## Output  :
-<img src="./img/blink.jpg" alt="Blink Image" width="200" height="150">
-<img src="./img/off.jpg" alt="Off Image" width="200" height="150">
-<img src="./img/on.jpg" alt="On Image" width="200" height="150">
+
+<img src="./img/blink.jpg" alt="Blink Image" width="300" height="250">
+<img src="./img/off.jpg" alt="Off Image" width="300" height="250">
+<img src="./img/on.jpg" alt="On Image" width="300" height="250">
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
